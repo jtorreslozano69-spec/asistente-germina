@@ -1,0 +1,11 @@
+# Seguridad: No subir llaves
+.env
+
+# Archivos de Python innecesarios
+__pycache__/
+*.pyc
+
+# Carpetas de PyInstaller (para que no subas el .exe pesado)
+build/
+dist/
+*.spec

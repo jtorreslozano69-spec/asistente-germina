@@ -1,0 +1,10 @@
+groq==1.2.0
+python-dotenv==1.2.2
+pywin32==311
+speechrecognition==3.16.1
+
+#estos ya estan en python por defecto, no es necesario instalarlos
+
+import time
+from datetime import datetime
+import os
