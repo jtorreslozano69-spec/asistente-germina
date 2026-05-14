@@ -17,7 +17,7 @@ Asistente virtual desarrollado en Python que utiliza inteligencia artificial par
 
 ###Cómo usarla
 1. Asegúrate de tener Python instalado en tu computadora.
-2. Descarga el archivo `calculadora.py`.
+2. Descarga el archivo `germina.py`.
 3. Abre tu terminal o consola y ejecuta:
    ```bash
    python calculadora.py
