@@ -15,7 +15,7 @@ Asistente virtual desarrollado en Python que utiliza inteligencia artificial par
 * SpeechRecognition
 * Pyttsx3 (SAPI5)
 
-###Cómo usarla
+### Cómo usarla
 1. Asegúrate de tener Python instalado en tu computadora.
 2. Descarga el archivo `germina.py`.
 3. Abre tu terminal o consola y ejecuta:
