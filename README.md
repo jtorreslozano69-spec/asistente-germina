@@ -1,4 +1,13 @@
-Es un asistente virtual que se puede controlar por voz es basico y se llama GERMINA, es la primera vez que hago algo asi
-puede ser que tenga errores o no tenga funciones como agregar imagenes y generarlas, etc
-es un asistente de texto, pero tiene voz
-y esto es todo
+### Germina - Asistente de Voz con IA
+
+Asistente virtual desarrollado en Python que utiliza inteligencia artificial para interactuar mediante comandos de voz.
+
+**tiene reconocimiento de voz**: Escucha y entiende comandos en español
+**Cerebro IA:** Integración con **Llama 3 (Groq Cloud)** para respuestas inteligentes.
+**Seguridad:** Uso de variables de entorno (`.env`) para proteger las API Keys.
+**Multihilo:** Ejecución fluida sin bloqueos en la interfaz.
+
+* Python
+* Groq API
+* SpeechRecognition
+* Pyttsx3 (SAPI5)
